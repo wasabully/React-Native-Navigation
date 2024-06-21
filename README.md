@@ -5,7 +5,7 @@
 ## Скриншоты
 
 Главная страница:
-![Главная страница](React-Native-Navigation/assets/home.png)
+![Главная страница](assets/home.png)
 
 Страница категорий:
 ![Страница категорий](React-Native-Navigation/assets/categor.png)
