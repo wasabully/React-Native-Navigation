@@ -8,10 +8,10 @@
 ![Главная страница](assets/home.png)
 
 Страница категорий:
-![Страница категорий](React-Native-Navigation/assets/categor.png)
+![Страница категорий](/assets/categor.png)
 
 Страница избранного:
-![Страница избранного](React-Native-Navigation/assets/fav.png)
+![Страница избранного](/assets/fav.png)
 
 Страница поиска:
-![Страница поиска](React-Native-Navigation/assets/search.png)
+![Страница поиска](/assets/search.png)
